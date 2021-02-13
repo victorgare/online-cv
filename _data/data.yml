@@ -59,13 +59,13 @@ education:
       details: |
         Curso técnico em informática com foco em desenvolvimento de sistemas 
         
-    - degree: 70-480: Programming in HTML5 with JavaScript and CSS3
+    - degree: "70-480: Programming in HTML5 with JavaScript and CSS3"
       university: Microsoft
       time: Jul/2018
       details: |
         Certificação Microsoft em HTML, Javascript e CSS3
         
-    - degree: AZ-900: Microsoft Azure Fundamentals
+    - degree: "AZ-900: Microsoft Azure Fundamentals"
       university: Microsoft
       time: Ago/2020 
       details: |
